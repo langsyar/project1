@@ -59,6 +59,7 @@
 .pg3-button-send {
 	display: block;
 	background: #48cbe8;
+	border: none;
 	border-bottom:2px solid #3ba8c0;
 	color:#fff;
 	font:19px;
@@ -66,13 +67,14 @@
 	width: 137px;
 	height: 31px;
 	text-decoration: none;
-	line-height: 31px;
+	line-height: 28px;
 	border-radius:4px;
 	float: left;
 }
 .pg3-button-clear {
 	display: block;
 	background: #849db5;
+	border: none;
 	border-bottom:2px solid #687b8f;
 	color:#fff;
 	font:19px;
@@ -80,7 +82,10 @@
 	width: 137px;
 	height: 31px;
 	text-decoration: none;
-	line-height: 31px;
+	line-height: 28px;
 	border-radius:4px;
 	float: right;
+}
+.pg3-button-send:hover, .pg3-button-clear:hover {
+	opacity:0.7;
 }
