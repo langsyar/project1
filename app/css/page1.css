@@ -1,0 +1,76 @@
+.right-block-inner ul {
+	margin-top:25px;
+}
+.right-block-inner ul li {
+	color:#4a545d;
+	font-size:17px;
+	margin:0 0 23px 58px;	
+}
+.right-block-inner ul li:last-child {
+	margin-bottom: 0;
+}
+.pg1-main-info>div {
+	display: inline-block;
+}
+.pg1-main-left {
+	vertical-align: top;
+	margin:30px 0 0 55px;
+	display: block;
+	width: 150px;
+	height: 150px;
+	overflow: hidden;
+	border-radius: 50%;
+	border:4px solid #30a6bd;
+}
+.pg1-main-right {
+	
+}
+.pg1-main-right ul {
+	padding: 0;
+}
+.pg1-main-right ul li {
+	margin:0 0 23px 40px;
+}
+.pg1-main-right ul li span {
+	font-weight:bold;
+}
+.pg1-li-skills {
+	font:14px Arial;
+	color:#fff;
+	background: #3ba8c0;
+	padding:4px 10px;
+	border-radius: 5px;
+}
+.pg1-expirience {
+	margin-bottom:26px;
+	padding-bottom:40px;
+}
+.pg1-expirience li span {
+	display: block;
+	width:36px;
+	height: 34px;
+	background:url(../images/icons.png) no-repeat -12px -9px;
+	float:left;
+	margin-right:30px;
+}
+.pg1-education {
+	margin-bottom: 40px;
+	padding-bottom:40px;
+}
+.pg1-education li span {
+	display: block;
+	width:36px;
+	height: 34px;
+	float:left;
+	margin-right:30px;
+}
+.pg1-education li.edu1 span {
+	background:url(../images/icons.png) no-repeat -120px -11px;
+	width:41px;
+	margin-right:25px;
+}
+.pg1-education li.edu2 span {
+	background:url(../images/icons.png) no-repeat -68px -9px;
+	width:41px;
+	margin-right:25px;
+}
